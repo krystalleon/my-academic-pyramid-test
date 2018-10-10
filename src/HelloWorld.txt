@@ -1,0 +1,4 @@
+HI HI HI HI HIH IH 
+print("text")
+System.out.println("hello world");
+Console.WriteLine("Hello world");
